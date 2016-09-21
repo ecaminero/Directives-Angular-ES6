@@ -1,7 +1,7 @@
 import _ from 'lodash';
 
 class isNumber {
-    constructor($q) {
+    constructor() {
         this.restrict = 'A';
         this.require = 'ngModel';
         this.scope = {};
