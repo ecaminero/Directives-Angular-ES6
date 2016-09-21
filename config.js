@@ -1,7 +1,7 @@
 import angular from 'angular';
 
 // Directives
-import isNumber from './isNumber.directive'
+import isNumber from './directives/isNumber.directive'
 
 
 // Module
