@@ -1,7 +1,8 @@
 # Directives 
 
 * IsNumber - Only positive numbers are allowed
- ** 
+> Ej: <input type="text" name="number" ng-model="number" is-number>
+
 
 ### Required
 
